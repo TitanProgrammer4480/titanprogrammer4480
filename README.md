@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on:
-  - ⛏️ Minecraft Server
-  - ✉️ GPU price API
+  - ✉️ school project
   - 🔎 SneakSearch(search engine)
     
 Feel free to visit my [portfolio](https://sebis-portfolio.vercel.app)
