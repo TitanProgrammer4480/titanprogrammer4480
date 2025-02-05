@@ -1,7 +1,9 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on:
-  - ✉️ school project
-  - 🔎 SneakSearch(search engine)
-    
-Feel free to visit my [portfolio](https://sebis-portfolio.vercel.app)
+- 🔭 **Currently working on**:
+  - ✉️ School project
+  - 🔎 **SneakSearch** (a search engine that’s constantly evolving)
+
+- 💡 **Tech Stack**: JavaScript ⚙️ | Python 🐍 | React ⚛️ | Node.js 🌐 | Flask 🌐
+
+Feel free to check out my [portfolio](https://sebis-portfolio.vercel.app) 💼  
