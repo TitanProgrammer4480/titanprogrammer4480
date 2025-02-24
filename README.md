@@ -2,8 +2,8 @@
 
 - 🔭 **Currently working on**:
   - ✉️ School project
-  - 🔎 **SneakSearch** (a search engine that’s constantly evolving)
+  - 🔎 **SneakSearch** (a search aggregator)
 
-- 💡 **Tech Stack**: JavaScript ⚙️ | Python 🐍 | React ⚛️ | Node.js 🌐 | Flask 🌐
+- 💡 **Tech Stack**: JavaScript ⚙️ | Python 🐍 | React ⚛️ | Flask 🌐
 
 Feel free to check out my [portfolio](https://sebis-portfolio.vercel.app) 💼  
