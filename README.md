@@ -2,7 +2,7 @@
 
 - 🔭 **Currently working on**:
   - ✉️ School project
-  - 🔎 **SneakSearch** (a search aggregator)
+  - 💼 Portfolio
 
 - 💡 **Tech Stack**: JavaScript ⚙️ | Python 🐍 | React ⚛️ | Flask 🌐
 
